@@ -2,7 +2,7 @@
 ```
 This project using Java programing language. 
 The product development model is MVC. 
-Use JSP Servlet for project development.
+Use Jave JSP Servlet, Html, Css, Javascript, MS Sql Server for project development.
 Here are some pictures of the project.
 ```
 ![This is an image](/images/1.png)
